@@ -27,6 +27,14 @@ PLAGAS = {
             "planta, provoca amarillamiento y transmite virus entre cultivos."
         ),
     },
+    "ferrin": {
+        "nombre": "Ferrin",
+        "descripcion": (
+            "Ferrin es una plaga poco común que se encarga de enseñar a profundidad "
+            "a sus estudiantes, transmitiendo conocimiento de forma constante hasta "
+            "que dominan por completo la materia."
+        ),
+    },
 }
 
 
